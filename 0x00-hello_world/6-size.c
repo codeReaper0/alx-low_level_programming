@@ -1,5 +1,10 @@
 #include <stdio.h>
 
+/*
+* prints sizes of variable
+*
+* returns 0
+*/
 
 int main(void)
 {
