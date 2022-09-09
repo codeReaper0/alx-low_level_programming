@@ -1,7 +1,7 @@
 #include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
-/**
+/*
  *  main - assign random number to n
  *	and declares if its positive or negative
  *  Return: Always 0
