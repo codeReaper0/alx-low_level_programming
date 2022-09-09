@@ -1,8 +1,8 @@
 #include <stdio.h>
 /**
-* prints sizes of variable
+* main - prints sizes of variable
 *
-* returns 0
+* Return always 0
 */
 int main(void)
 {
