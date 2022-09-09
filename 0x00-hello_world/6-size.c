@@ -1,9 +1,11 @@
 #include <stdio.h>
+
 /**
 * main - prints sizes of variable
 *
 * Return always 0
 */
+
 int main(void)
 {
 		char d;
