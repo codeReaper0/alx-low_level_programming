@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * void swap_int(int *a, int *b) - swaps the values of two integers
+ * swap_int(int *a, int *b) - swaps the values of two integers
  * @a: first integer
  * @b: second integer
  * Tella Boluwatife - Author
@@ -11,7 +11,8 @@
 void swap_int(int *a, int *b)
 {
 	int n;
-	n = *a;
+
+	n = *b;
 	*b = *a;
 	*a = n;
 }
