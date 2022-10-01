@@ -1,1 +1,1 @@
-Static Libaries
+Static files
